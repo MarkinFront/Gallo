@@ -16,6 +16,16 @@ const itemLinks = [
     'https://am-3.vercel.app/',
     'https://am-4.vercel.app/',
     'https://am-5.vercel.app/',
+    'https://triangulos-ebon.vercel.app/',
+    'https://maior-entre-dois.vercel.app/',
+    'https://media-teal.vercel.app/',
+    'https://par-impar.vercel.app/',
+    'https://bissexto.vercel.app/',
+    'https://contagem-green.vercel.app/',
+    'https://soma-dos-num.vercel.app/',
+    'https://tabuada-coral.vercel.app/',
+    'https://somaq.vercel.app/',
+    'https://mutiplos3.vercel.app/',
 
 ];
 
